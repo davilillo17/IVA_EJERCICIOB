@@ -73,6 +73,11 @@ public class CalculamosPrecioFinal {
 
 		       
 		    }
+
+			public static double calcularPrecioFinal(int i, String string, String string2) {
+				// TODO Auto-generated method stub
+				return 0;
+			}
 		    
 		    
 }
