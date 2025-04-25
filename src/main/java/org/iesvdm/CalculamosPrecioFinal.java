@@ -68,7 +68,9 @@ public class CalculamosPrecioFinal {
 		        System.out.printf("Base imponible        %.2f\n", baseImponible);
 		        System.out.printf("IVA (%.0f%%)            %.2f\n", iva * 100, cantidadIva);
 		        System.out.printf("Precio con IVA        %.2f\n", precioConIva);
-		       
+		        System.out.printf("Cód. promo. (%s): %.2f\n", codigoPromo, -descuento);
+		        System.out.printf("TOTAL                 %.2f\n", precioFinal);
+
 		       
 		    }
 		    
